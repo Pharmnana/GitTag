@@ -4,4 +4,3 @@ List of Fruits
 3. Banana
 4. Cherry
 5. Strawberry
-6. Grapes
